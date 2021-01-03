@@ -1,0 +1,16 @@
+how to build the zoom clone 
+ -Initialize nodejs project
+ -make the first view 
+ -create a room id (where  we can the videos of the connected people)
+ -Add the ability to view your own videos
+ -Add the ability to stream them their own videos
+ -Add Styling
+ -Add ability to create messages
+ -Add mute Button
+ -Add stop video button
+
+ #how to use that
+ peer.js
+ socket.io
+ expressjs
+  
